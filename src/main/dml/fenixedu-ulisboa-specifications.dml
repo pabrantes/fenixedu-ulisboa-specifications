@@ -332,6 +332,7 @@ relation DegreeFirstYearRegistrationConfiguration{
 }
 
 class FirstYearRegistrationGlobalConfiguration {
+	LocalizedString introductionText;
 }
 
 class CgdMod43Template extends .org.fenixedu.bennu.io.domain.GenericFile {
